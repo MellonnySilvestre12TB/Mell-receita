@@ -35,7 +35,7 @@ h1 {
 }
 
 p, li, th, td {
-font-family: 'Outfit', sans-serif;
+    font-family: 'Outfit', sans-serif;
 }
 
 p {
@@ -77,4 +77,11 @@ ol, ul {
 .tempo li::marker {
     color: #7a284e;
     font-size: 12px;
+}
+
+h2 {
+    font-size: 28px;
+    color: #854632;
+    line-height: 100%;
+    margin-bottom: 24px;
 }
